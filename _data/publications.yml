@@ -8,7 +8,8 @@
       author: Georgios Panayiotou, Matteo Magnani, Ece Calikus
       conference: "DETOX workshop @ ICWSM"
       year: 2025
-      material:
+      doi: https://doi.org/10.36190/2025.40
+      material: https://github.com/uuinfolab/paper.25_ICWSM_Intersectional-Fairness-CD
  
     - title: "Climate Clash: A Multimodal Analysis of Movement - Countermovement Interactions on Digital Sphere"
       type: "article"
